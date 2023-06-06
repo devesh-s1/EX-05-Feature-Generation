@@ -214,3 +214,7 @@ OUTPUT
 
 ![image](https://github.com/devesh-s1/EX-05-Feature-Generation/assets/121490523/72ee1a7e-b3b9-4ab6-a0c2-f2405dd6a4a9)
 
+
+Result:
+
+Thus the Feature Generation and Feature Scaling process is applied to the given data set.
